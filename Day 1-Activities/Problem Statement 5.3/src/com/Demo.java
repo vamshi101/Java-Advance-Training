@@ -43,7 +43,7 @@ public class Demo{
 	   
 	    public static void main(String[] args)
 	    {
-	        String  str = new String("MPHASIS");
+	        String  str = new String("VAMSHI");
 	        printRotatedString(str);
 	    }
 	}
